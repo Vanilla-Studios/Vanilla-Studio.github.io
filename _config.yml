@@ -24,8 +24,8 @@ subtitle                 : # site tagline that appears below site title in masth
 url                      : "vanillastudios.co.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/tabicon.png"
-logo                     : "/assets/logo.png"
+teaser                   : "/assets/logo2.png"
+logo                     : "/assets/logo2.png"
 masthead_title           : "Vanilla Studios"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
