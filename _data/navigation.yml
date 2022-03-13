@@ -1,5 +1,7 @@
 # main links
 main:
+  - title : "Itch.io"
+    url: "https://imbenji03.itch.io/railverse"
   #  - title: "Quick-Start Guide"
   #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
