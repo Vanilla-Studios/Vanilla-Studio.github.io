@@ -4,9 +4,6 @@ title: "Privacy Policy for Railverse"
 toc: true
 ---
 
-Privacy Policy
-==============
-
 Last updated: March 12, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
@@ -172,4 +169,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: query@vanillastudios.co.uk
+*   By email: Queries@vanillastudios.co.uk
