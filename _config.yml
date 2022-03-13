@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Vanilla Studios"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Independent Game Developer"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "vanillastudios.co.uk"
