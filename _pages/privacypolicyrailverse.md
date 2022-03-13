@@ -1,3 +1,9 @@
+---
+permalink: /privacypolicyrailverse/
+title: "Privacy Policy for Railverse"
+toc: true
+---
+
 Privacy Policy
 ==============
 
