@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,8 +24,8 @@ description              : "An amazing website."
 url                      : "vanillastudios.co.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/logo2.png"
-logo                     : "/assets/logo2.png"
+#teaser                   : "/assets/logo2.png"
+#logo                     : "/assets/logo2.png"
 masthead_title           : "Vanilla Studios"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
