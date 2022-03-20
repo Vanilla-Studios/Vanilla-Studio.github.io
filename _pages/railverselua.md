@@ -1,7 +1,6 @@
 ---
 permalink: /railverse/api
-title: "Privacy Policy for Railverse"
-toc: true
+title: "Lua Documentation"
 ---
 
 # Mod.lua
