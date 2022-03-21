@@ -1,6 +1,7 @@
 ---
 permalink: /railverse/api
 title: "Lua Documentation"
+layout: default
 ---
 
 ## Mod.lua
