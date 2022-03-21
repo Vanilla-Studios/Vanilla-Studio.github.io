@@ -17,7 +17,7 @@ title: "Lua Documentation"
  
 | Method | Arguments | Description |
 |--------|-----------|-------------|
-| Mod#addGlobalScript | <ul> <li> GlobalValue : String </li><li>ReletiveFilePath : String</li></ul> | Adds script to global registry that can be accessed easily by other addons. |
+| Mod#addGlobalScript | <div><ul> <li> GlobalValue : String </li><li>ReletiveFilePath : String</li></ul></div> | Adds script to global registry that can be accessed easily by other mods. |
 
 ### Implementable methods
 
