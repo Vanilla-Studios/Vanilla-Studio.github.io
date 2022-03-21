@@ -17,7 +17,7 @@ layout: default
 
 | Method | Arguments | Description |
 |--------|-----------|-------------|
-| Mod#addGlobalScript | {::nomarkdown}<ul> <li> GlobalValue : String </li><li>ReletiveFilePath : String</li></ul> {:/}| Adds script to global registry that can be accessed easily by other mods. |
+| Mod#addGlobalScript | {::nomarkdown}<div><ul> <li> GlobalValue : String </li><li>ReletiveFilePath : String</li></ul></div>{:/}| Adds script to global registry that can be accessed easily by other mods. |
 
 ### Implementable methods
 
