@@ -1,7 +1,7 @@
 ---
 permalink: /railverse/api
 title: "Lua Documentation"
-layout: "pages"
+
 ---
 
 ## Getting started
