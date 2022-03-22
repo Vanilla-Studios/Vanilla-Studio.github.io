@@ -1,7 +1,7 @@
 ---
 permalink: /railverse/api
 title: "Lua Documentation"
-
+toc: true
 ---
 
 ## Getting started
@@ -38,7 +38,7 @@ class "example" {
 }
 ```
 ### Inheriting another class
-By default, all classes inherit a base ``Object`` class. However, this can be overridden. To overide, declare the name of the parent class as the first index of the class table. An example can be seen below:
+By default, all classes inherit a base ``Object`` class. However, this can be overridden. To overide, declare the name of the parent class at the first index of the class table. An example can be seen below:
 ```lua
 class "example" { "Mod" -- Declaring the mod class as the parent
 
