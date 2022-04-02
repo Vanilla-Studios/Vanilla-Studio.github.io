@@ -20,9 +20,9 @@ A vector in 3-D space composed of components (X, Y, Z) with double floating poin
 ### Variables
 | Name | Type | Description | Notes |
 |:-----|:-----|:------------|:------|
-| X | Number | Vector's X Component |  
-| Y | Number | Vector's Y Component | 
-| Z | Number | Vector's Z Component | 
+| X | Number | Vector's X Component ||
+| Y | Number | Vector's Y Component ||
+| Z | Number | Vector's Z Component ||
 
 ### Constructors
 
