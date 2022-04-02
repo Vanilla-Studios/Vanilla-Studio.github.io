@@ -7,7 +7,8 @@ toc: true
 ## Vector
 
 ### Inheritance Hierarchy
-- **Vector**
+- Object
+- - **Vector**
 
 ### Syntax
 ```lua
@@ -34,9 +35,9 @@ A vector in 3-D space composed of components (X, Y, Z) with double floating poin
 
 ### Methods
 
-| Method | Arguments | Description |
-|:-------|:----------|:------------|
-|  | | |
+| Name | Output | Description | Notes |
+|:-----|:-------|:------------|:------|
+| ``` magnitude(self)``` | Number | Get the length (magnitude) of self. |  
 
 ### Operators
 
@@ -48,3 +49,4 @@ A vector in 3-D space composed of components (X, Y, Z) with double floating poin
 | ``` __div(self, other : Vector)``` | Vector |Gets the result of component-wise division of self and another vector | 
 | ``` __eq(self, other : Vector)``` | Boolean | Checks against another vector for equality | 
 | ``` __tostring(self)``` | String | Get a textual representation of this vector. |
+| ``` __len(self)``` | Number | Get the length (magnitude) of self. |
