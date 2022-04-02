@@ -1,5 +1,5 @@
 ---
-permalink: /railverse/api
+permalink: /railverse/api/classes
 title: "Lua Documentation"
 toc: true
 ---
@@ -8,14 +8,14 @@ toc: true
 Railverse uses a custom class system for lua.
 
 ### Declaring a class
-To create a class, use the global ``class`` keyword followed by the classes name and a table. an example can be seen below:
+To create a class, use the global ``class`` keyword followed by the classes name and a table. An example can be seen below:
 ```lua
 class "example" {
 
 }
 ```
 ### Declaring a class method
-To create a class method, create an anonomous function inside the class table. the ``self`` keyword **must** be passed in as the first argument. An example can be seen below:
+To create a class method, create an anonomous function inside the class table. The ``self`` keyword **must** be passed in as the first argument. An example can be seen below:
 ```lua
 class "example" {
 
@@ -46,8 +46,21 @@ class "example" { "Mod" -- Declaring the mod class as the parent
 }
 ```
 
+### Creating an instance of your class
+Creating an instance of your class is similar to methods in Java, C# or even C++. To create an instance, use the ``new`` keyword followed by the name of the class and parenthesese containing the constructor arguments. An example can be seen below:
+```lua
+local Instance = new "example"()
+```
 
-## Mod.lua
+### Calling a instance method
+An example can be seen below:
+```lua
+local Instance = new "example"()
+
+Instance:exampleFunction();
+```
+
+<!-- # Mod Class
 
 ### Variables
 
@@ -67,4 +80,9 @@ class "example" { "Mod" -- Declaring the mod class as the parent
 | Method | Description |
 |:-------|:------------|
 | Mod#Load | Called when the mod is loaded |
-| Mod#Unload | Called when the mod is unloaded 
+| Mod#Unload | Called when the mod is unloaded  -->
+
+---
+# Important links
+
+[Vector Class](https://vanillastudios.co.uk/railverse/api/vector)
