@@ -1,5 +1,5 @@
 ---
-permalink: /privacypolicyrailverse/
+permalink: /railverse/privacypolicy/
 title: "Privacy Policy for Railverse"
 toc: true
 ---
