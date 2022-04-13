@@ -169,4 +169,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-*   By email: Queries@vanillastudios.co.uk
+*   By email: queries@vanillastudios.co.uk
