@@ -1,5 +1,5 @@
 ---
-permalink: /railverse
+permalink: /railverse/
 layout: home
 ---
 
