@@ -13,3 +13,5 @@ Modding documentation can be found [here](http://vanillastudios.co.uk/railverse/
 [Download Railverse](https://imbenji03.itch.io/railverse) (Requires password)
 
 [See privacy policy](http://vanillastudios.co.uk/railverse/privacypolicy/)
+
+For any queries, contact queries@vanillastudios.co.uk
