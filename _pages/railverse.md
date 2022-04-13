@@ -1,5 +1,6 @@
 ---
 permalink: /railverse/
+title: Railverse
 layout: home
 ---
 
