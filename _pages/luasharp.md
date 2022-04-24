@@ -2,12 +2,11 @@
 permalink: /luasharp/
 title: "Lua#"
 toc: true
-classes: wide
 ---
 
 LuaSharp (Lua#) is a part of the standard library for Vanilla Studios: Railverse. LuaSharp beter equips lua developers for object oriented programming in Lua.
 
-Lua is a simple to learn language compared to other OOP languages such as Java and C#. LuaSharp aims to implement a simplicar object oriented experience through similar syntax.
+Lua is a simple to learn language compared to other OOP languages such as Java and C#. LuaSharp aims to implement a simpilar object oriented experience through similar syntax.
 
 ___
 
@@ -128,7 +127,7 @@ struct "Employee" : extends "Person" {
 }
 ```
 
-**Instancing a struct that inherits another has not been finalise. So you should probably stay far from this before I change it and probably break all of your code.**
+**Instancing a struct that inherits another has not been finalised. So you should probably stay far from this before I change it and probably break all of your code.**
 However, instancing one of these structs only accepts the immediate structs instance variables and not the instance variables from the inherited structs. Example:
 ```lua
 local varA = new "Employee"{
