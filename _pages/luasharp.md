@@ -1,10 +1,10 @@
 ---
-permalink: /railverse/api/classes
-title: "Lua Documentation"
+permalink: /luasharp/
+title: "Lua#"
 toc: true
 ---
 
-LuaSharp is a part of the standard library for Vanilla Studios: Railverse. LuaSharp beter equips lua developers for object oriented programming in Lua.
+LuaSharp (Lua#) is a part of the standard library for Vanilla Studios: Railverse. LuaSharp beter equips lua developers for object oriented programming in Lua.
 
 Lua is a simple to learn language compared to other OOP languages such as Java and C#. LuaSharp aims to implement a simplicar object oriented experience through similar syntax.
 
