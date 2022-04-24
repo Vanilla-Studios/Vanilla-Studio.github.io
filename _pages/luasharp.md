@@ -2,6 +2,7 @@
 permalink: /luasharp/
 title: "Lua#"
 toc: true
+classes: wide
 ---
 
 LuaSharp (Lua#) is a part of the standard library for Vanilla Studios: Railverse. LuaSharp beter equips lua developers for object oriented programming in Lua.
